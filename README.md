@@ -1,6 +1,11 @@
-MMMFBB Launcher
+BBMFBB Launcher
 MIT License
 Copyright (c) 2023 Peter Goudswaard
+
+DESCRIPTION
+===========
+
+BBMFBB Launcher is a simple configurable PowerShell launcher originally designed for use with Syncro RMM. Feel free to modify it or adapt it for your own use under the MIT license.
 
 INSTALLATION
 ============
