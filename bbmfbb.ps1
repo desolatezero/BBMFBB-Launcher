@@ -1,6 +1,6 @@
 # BBMFBB Launcher
 $scriptVersion = "v0.6"
-# peterg@paramountdigitalsecurity.com
+# 
 # MIT License
 # Copyright (c) 2023 Peter Goudswaard
 
