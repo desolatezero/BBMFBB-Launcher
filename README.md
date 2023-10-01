@@ -15,7 +15,7 @@ Copy all files to C:\Program Files\BBMFBB Launcher\.
 In your Syncro desktop policy, go to System Tray, create a menu type "Execute a CMD", with a title of your choosing, ie "Run Utilities", and the CMD to run is:
 powershell.exe -ExecutionPolicy RemoteSigned -file "C:\Program Files\BBMFBB Launcher\bbmfbb.ps1"
 
-If you have Threatlocker installed, you'll need to create AN exception for bbmfbb.ps1, and any other .ps1 scripts that you create.
+If you have Threatlocker installed, you'll need to create an exception for bbmfbb.ps1, and any other .ps1 scripts that you create.
 
 CUSTOMIZATION
 =============
